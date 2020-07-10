@@ -1,0 +1,9 @@
+.jumbo-background {
+    background-image: url("/images/world-at-night.jpg");
+}
+
+.bungee {
+    font-family: 'Bungee Shade', cursive;
+    font-size: 4.23m;
+    padding: .5em 0em;
+}
